@@ -11,6 +11,7 @@ When Skip sign in should launch the register page
 Then Register page should get display
 And close the browser
 
+
 @Test2
 Scenario Outline: checking firstname
 Given login to demo automation with URL "http://demo.automationtesting.in/Index.html"
